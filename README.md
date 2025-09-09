@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...Data analyst 
 - 📫 How to reach me ...sonia26hooda@gmail.com
 - 😄 Pronouns: ...
-- ⚡ ...I want to switch my career from Accounting to Data analyst
+- ⚡ ...I want to switch my career from Accounting to Data ### Hi there 👋 I'm Sonia
+
+- 🔭 I’m currently working on **Data Analytics Projects**
+- 🌱 Skilled in **SQL, Power BI, Excel, Python**
+- 📊 Interested in **Data Visualization & Business Intelligence**
 
 <!---
 Sonia26hooda/Sonia26hooda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
