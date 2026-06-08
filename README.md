@@ -26,7 +26,7 @@ Languages & Tools
 </p>
 
 🏅 Certifications
-	•	🎓 Google Data Analytics Professional Certificate — View on Credly
+	•	🎓 Google Data Analytics Professional Certificate — View on Credly https://www.credly.com/users/sonia-dalal.01587e01
 
 <!--
 🤝 Let’s Connect
